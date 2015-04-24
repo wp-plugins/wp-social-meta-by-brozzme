@@ -1,0 +1,214 @@
+# Copyright (C) 2015 wp social meta brozzme
+# This file is distributed under the same license as the wp social meta brozzme package.
+msgid ""
+msgstr ""
+"Project-Id-Version: wp social meta brozzme 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/wp-social-meta-brozzme\n"
+"POT-Creation-Date: 2015-04-23 15:23:51+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-04-23 17:26+0100\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: Benoît Faure <dev@brozme.com>\n"
+"Language-Team: Benoît Faure <dev@brozzme.com>\n"
+"Language: en_EN\n"
+"X-Generator: Poedit 1.7.4\n"
+
+#: includes/wpsmb_options.php:22
+msgid "General settings for Wp Social Meta by Brozzme"
+msgstr ""
+
+#: includes/wpsmb_options.php:29
+msgid "Enable Social Meta"
+msgstr ""
+
+#: includes/wpsmb_options.php:37
+msgid "Site name"
+msgstr ""
+
+#: includes/wpsmb_options.php:44
+msgid "Default image"
+msgstr ""
+
+#: includes/wpsmb_options.php:51
+msgid "Embed meta on the entire website"
+msgstr ""
+
+#: includes/wpsmb_options.php:58
+msgid "Automatic images array"
+msgstr ""
+
+#: includes/wpsmb_options.php:69
+msgid "Options settings for Wp Social Meta by Brozzme"
+msgstr ""
+
+#: includes/wpsmb_options.php:76
+msgid "Enable social meta on product"
+msgstr ""
+
+#: includes/wpsmb_options.php:83
+msgid "First image to show"
+msgstr ""
+
+#: includes/wpsmb_options.php:90
+msgid "Description lengh"
+msgstr ""
+
+#: includes/wpsmb_options.php:97
+msgid "Default description"
+msgstr ""
+
+#: includes/wpsmb_options.php:104
+msgid "Settings google+ for Wp Social Meta by Brozzme"
+msgstr ""
+
+#: includes/wpsmb_options.php:110
+msgid "Enable google+ social meta"
+msgstr ""
+
+#: includes/wpsmb_options.php:117
+msgid "google+ user id"
+msgstr ""
+
+#: includes/wpsmb_options.php:124
+msgid "google+ rel type"
+msgstr ""
+
+#: includes/wpsmb_options.php:132
+msgid "Settings facebook for Wp Social Meta by Brozzme"
+msgstr ""
+
+#: includes/wpsmb_options.php:138
+msgid "Enable facebook social meta"
+msgstr ""
+
+#: includes/wpsmb_options.php:145
+msgid "facebook user id"
+msgstr ""
+
+#: includes/wpsmb_options.php:152
+msgid "facebook app id"
+msgstr ""
+
+#: includes/wpsmb_options.php:167
+msgid "Settings Twitter for Wp Social Meta by Brozzme"
+msgstr ""
+
+#: includes/wpsmb_options.php:173
+msgid "Enable Twitter social meta"
+msgstr ""
+
+#: includes/wpsmb_options.php:180
+msgid "Twitter user id"
+msgstr ""
+
+#: includes/wpsmb_options.php:187
+msgid "Twitter card type"
+msgstr ""
+
+#: includes/wpsmb_options.php:202 includes/wpsmb_options.php:227
+#: includes/wpsmb_options.php:236 includes/wpsmb_options.php:246
+#: includes/wpsmb_options.php:282 includes/wpsmb_options.php:312
+#: includes/wpsmb_options.php:324 includes/wpsmb_options.php:355
+msgid "Yes"
+msgstr ""
+
+#: includes/wpsmb_options.php:203 includes/wpsmb_options.php:228
+#: includes/wpsmb_options.php:237 includes/wpsmb_options.php:247
+#: includes/wpsmb_options.php:283 includes/wpsmb_options.php:313
+#: includes/wpsmb_options.php:325 includes/wpsmb_options.php:356
+msgid "No"
+msgstr ""
+
+#: includes/wpsmb_options.php:256
+msgid "Featured image"
+msgstr ""
+
+#: includes/wpsmb_options.php:257
+msgid "First image"
+msgstr ""
+
+#: includes/wpsmb_options.php:345
+msgid "Author"
+msgstr ""
+
+#: includes/wpsmb_options.php:346
+msgid "Publisher"
+msgstr ""
+
+#: includes/wpsmb_options.php:371
+msgid "Summary card"
+msgstr ""
+
+#: includes/wpsmb_options.php:372
+msgid "Summary card with large image"
+msgstr ""
+
+#: includes/wpsmb_options.php:373
+msgid "Photo card"
+msgstr ""
+
+#: includes/wpsmb_options.php:374
+msgid "Gallery card"
+msgstr ""
+
+#: includes/wpsmb_options.php:375
+msgid "Product card"
+msgstr ""
+
+#: includes/wpsmb_options.php:383 includes/wpsmb_options.php:416
+msgid "General settings"
+msgstr ""
+
+#: includes/wpsmb_options.php:389
+msgid "Options settings for "
+msgstr ""
+
+#: includes/wpsmb_options.php:395
+msgid "Google+ settings for "
+msgstr ""
+
+#: includes/wpsmb_options.php:400
+msgid "Twitter settings for "
+msgstr ""
+
+#: includes/wpsmb_options.php:417
+msgid "Options settings"
+msgstr ""
+
+#: includes/wpsmb_options.php:418
+msgid "Facebook settings"
+msgstr ""
+
+#: includes/wpsmb_options.php:419
+msgid "Google+ settings"
+msgstr ""
+
+#: includes/wpsmb_options.php:420
+msgid "Twitter settings"
+msgstr ""
+
+#: wp-social-meta-brozzme.php:127
+msgid "Social meta"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "wp social meta brozzme"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://brozzme.com/wp-social-meta/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add social meta in header"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Benoît Faure - Benoti"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://brozzme.com"
+msgstr ""
